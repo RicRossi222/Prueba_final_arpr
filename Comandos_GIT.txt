@@ -8,6 +8,3 @@ git commit -m 'Nombre de la version'  -----> COLOCAREMOS EL NOMBRE DE LA VERSION
 
 git remote add origin https://github.com/RicRossi222/mi_reporteria.git -----> para enlazar el git con GIT HUB que esta en la nube
 
-SUBIR ARCHIVOS LOCALES AL GITHUB DE LA NUBE
-
-git push -u origin master (en este caso es master porque es el nombre del origen que aparece en nuestro Git Bash) 
