@@ -1,0 +1,3 @@
+SUBIR ARCHIVOS LOCALES AL GITHUB DE LA NUBE
+
+git push -u origin master (en este caso es master porque es el nombre del origen que aparece en nuestro Git Bash) 
