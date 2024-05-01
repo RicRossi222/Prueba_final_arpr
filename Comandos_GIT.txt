@@ -1,0 +1,13 @@
+COMANDOS PARA EL GIT BASH
+
+git status ---> VER EL ESTADO DE LOS ARCHIVOS EN MI CARPETA
+
+git add "nombre del o los files" --> AGREGAMOS LOS ARCHIVOS PARA LUEGO SER PASADOS AL COMMIT COMO OTRA VERSION
+
+git commit -m 'Nombre de la version'  -----> COLOCAREMOS EL NOMBRE DE LA VERSION DE LOS ARCHIVOS QUE HEMOS AGREGADO EN EL PASO ANTERIOR
+
+git remote add origin https://github.com/RicRossi222/mi_reporteria.git -----> para enlazar el git con GIT HUB que esta en la nube
+
+SUBIR ARCHIVOS LOCALES AL GITHUB DE LA NUBE
+
+git push -u origin master (en este caso es master porque es el nombre del origen que aparece en nuestro Git Bash) 
